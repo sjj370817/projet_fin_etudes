@@ -1,0 +1,120 @@
+// // import DropDownMenu from "./DropDownMenu";
+// function NavBar() {
+//   // const clientMenus = {
+//   //   title: "Clients",
+//   //   items: [
+//   //     { link: "/clients", title: "Liste" },
+//   //     { link: "/newclient", title: "Nouveau" },
+//   //     { link: "/findclient", title: "Chercher" },
+//   //   ],
+//   // };
+
+
+//   // const carMenus = {
+//   //   title: "Voitures",
+//   //   items: [
+//   //     { link: "/cars", title: "Liste" },
+//   //     { link: "/newcar", title: "Nouveau" },
+//   //     { link: "/findcar", title: "Chercher" },
+//   //   ],
+//   // };
+
+//   // const contractMenus = {
+//   //   title: "Contrats",
+//   //   items: [
+//   //     { link: "/contracts", title: "Liste" },
+//   //     { link: "/newcontract", title: "Nouveau" },
+//   //     { link: "/findcontract", title: "Chercher" },
+//   //   ],
+//   // };
+
+//   // const invoiceMenus = {
+//   //   title: "Factures",
+//   //   items: [
+//   //     { link: "/invoicies", title: "Liste" },
+//   //     { link: "/newcontract", title: "Nouveau" },
+//   //     { link: "/findcontract", title: "Chercher" },
+//   //   ],
+//   // };
+
+//   
+
+return (
+//     <Navbar bg="light" expand="lg">
+//       <Container fluid>
+//         <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+//         <Navbar.Toggle aria-controls="navbarScroll" />
+//         <Navbar.Collapse id="navbarScroll">
+//           <Nav
+//             className="me-auto my-2 my-lg-0"
+//             style={{ maxHeight: '100px' }}
+//             navbarScroll
+//           >
+//             <Nav.Link href="#action1">Home</Nav.Link>
+//             <Nav.Link href="#action2">Link</Nav.Link>
+//             <NavDropdown title="Link" id="navbarScrollingDropdown">
+//               <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
+//               <NavDropdown.Item href="#action4">
+//                 Another action
+//               </NavDropdown.Item>
+//               <NavDropdown.Divider />
+//               <NavDropdown.Item href="#action5">
+//                 Something else here
+//               </NavDropdown.Item>
+//             </NavDropdown>
+//             <Nav.Link href="#" disabled>
+//               Link
+//             </Nav.Link>
+//           </Nav>
+//           <Form className="d-flex">
+//             <Form.Control
+//               type="search"
+//               placeholder="Search"
+//               className="me-2"
+//               aria-label="Search"
+//             />
+//             <Button variant="outline-success">Search</Button>
+//           </Form>
+//         </Navbar.Collapse>
+//       </Container>
+//     </Navbar>
+
+
+//     // <header className={styles.header}>
+//     //   <div className="container">
+//     //     <div className={styles["header-container"]}>
+//     //       <div className={styles.logo}>Carmazing</div>
+//     //       <nav>
+//     //         <ul>
+//     //           <li>
+//     //             <Link to="/">Home</Link>
+//     //           </li>
+
+//     //           <li>
+//     //             <DropDownMenu menu={carMenus} />
+//     //           </li>
+
+//     //           <li>
+//     //             <DropDownMenu menu={clientMenus} />
+//     //           </li>
+
+//     //           <li>
+//     //             <DropDownMenu menu={invoiceMenus} />
+//     //           </li>
+
+//     //           <li>
+//     //             <DropDownMenu menu={contractMenus} />
+//     //           </li>
+
+//     //           <li>
+//     //             <Link to="/about">About</Link>
+//     //           </li>
+//     //         </ul>
+//     //       </nav>
+//     //     </div>
+//     //   </div>
+//     // </header>
+//   );
+// }
+
+// export default NavBar;
